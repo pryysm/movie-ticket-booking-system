@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "amqplib": "^0.5.2",
-    "express-handlebars": "3.0.0",
+    "express-handlebars": "5.3.1",
     "nodemailer": "^4.6.7",
     "nodemailer-express-handlebars": "3.0.0"
   }
